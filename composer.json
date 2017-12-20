@@ -1,0 +1,21 @@
+{
+    "name": "anlewo/yii2-datadict",
+    "description": "系统字段管理",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","anlewo","yii2-datadict"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "datadict",
+            "email": "shencaibiao@anlewo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "2.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "anlewo\\datadict\\": ""
+        }
+    }
+}
