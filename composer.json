@@ -1,13 +1,13 @@
 {
-    "name": "anlewo/yii2-datadict",
+    "name": "abiao/yii2-datadict",
     "description": "系统字段管理",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","anlewo","yii2-datadict"],
+    "keywords": ["yii2","extension","abiao","yii2-datadict"],
     "license": "MIT",
     "authors": [
         {
             "name": "datadict",
-            "email": "shencaibiao@anlewo.com"
+            "email": "syu150107@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "anlewo\\datadict\\": ""
+            "abiao\\datadict\\": ""
         }
     }
 }

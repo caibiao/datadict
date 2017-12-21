@@ -1,9 +1,9 @@
 <?php
 
-namespace anlewo\datadict;
+namespace abiao\datadict;
 
-use anlewo\datadict\models\Datadict;
-use anlewo\datadict\models\DatadictDetail;
+use abiao\datadict\models\Datadict;
+use abiao\datadict\models\DatadictDetail;
 use yii\base\Component;
 use yii\caching\Cache;
 use yii\db\Connection;
@@ -14,7 +14,7 @@ class DatadictComponent extends Component
 
     public $cache;
     public $db = 'db';
-    public $cacheKey = 'anlewo_Datadict_cache';
+    public $cacheKey = 'abiao_datadict_cache';
 
     protected $data;
 
