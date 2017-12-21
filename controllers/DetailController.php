@@ -8,15 +8,15 @@
  *              何形式、任何方式使用、拷贝、复制、翻译、广播、修改、授权、传播、
  *              分发、展示、执行、发布或显示本软件和相关 文档的任何部分。
  * @link        http://www.anlewo.com/
- * @package     anlewo\datadict\controllers
+ * @package     abiao\datadict\controllers
  * @author      梁铭佳 liangmingjia@anlewo.com
  * @since       0.1.0
  */
 
-namespace anlewo\datadict\controllers;
+namespace abiao\datadict\controllers;
 
-use anlewo\datadict\models\DatadictDetail;
-use anlewo\datadict\models\searchs\DatadictDetailSearch;
+use abiao\datadict\models\DatadictDetail;
+use abiao\datadict\models\searchs\DatadictDetailSearch;
 use kartik\widgets\ActiveForm;
 use Yii;
 use yii\helpers\Url;

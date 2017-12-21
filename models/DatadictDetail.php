@@ -1,8 +1,8 @@
 <?php
 
-namespace anlewo\datadict\models;
+namespace abiao\datadict\models;
 
-use anlewo\datadict\models\Datadict;
+use abiao\datadict\models\Datadict;
 use Yii;
 
 /**

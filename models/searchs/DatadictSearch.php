@@ -1,13 +1,13 @@
 <?php
 
-namespace anlewo\datadict\models\searchs;
+namespace abiao\datadict\models\searchs;
 
-use anlewo\datadict\models\Datadict;
+use abiao\datadict\models\Datadict;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
 
 /**
- * DatadictSearch represents the model behind the search form about `anlewo\datadict\models\Datadict`.
+ * DatadictSearch represents the model behind the search form about `abiao\datadict\models\Datadict`.
  */
 class DatadictSearch extends Model
 {

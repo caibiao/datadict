@@ -1,9 +1,9 @@
 <?php
 
-namespace anlewo\datadict\controllers;
+namespace abiao\datadict\controllers;
 
-use anlewo\datadict\models\Datadict;
-use anlewo\datadict\models\searchs\DatadictSearch;
+use abiao\datadict\models\Datadict;
+use abiao\datadict\models\searchs\DatadictSearch;
 use Yii;
 use yii\filters\VerbFilter;
 use yii\helpers\Url;
