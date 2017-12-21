@@ -1,3 +1,4 @@
+
 yii2-datadict
 ===========
 安乐窝字段管理控件扩展
@@ -76,3 +77,4 @@ yii migrate --migrationPath=@vendor/anlewo/yii2-datadict/migrations
     ...根据id获取字段
         $datadictlist = Yii::$app->Datadict->getDataDict($id);
 ```
+
