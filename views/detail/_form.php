@@ -3,7 +3,7 @@ use yii\helpers\Html;
 use kartik\widgets\ActiveForm;
 use kartik\widgets\Select2;
 use yii\helpers\ArrayHelper;
-use anlewo\datadict\models\DatadictDetail;
+use abiao\datadict\models\DatadictDetail;
 
 $this->registerJs($this->render("../datadict/js/form.js"));
 ?>

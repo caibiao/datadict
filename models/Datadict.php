@@ -1,8 +1,8 @@
 <?php
 
-namespace anlewo\datadict\models;
+namespace abiao\datadict\models;
 
-use anlewo\datadict\models\DatadictDetail;
+use abiao\datadict\models\DatadictDetail;
 use Yii;
 use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveRecord;

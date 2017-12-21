@@ -11,8 +11,7 @@ use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Url;
-use anlewo\widgets\Atag;
-use Anlewo\Common\Models\User;
+use abiao\widgets\Atag;
 use kartik\select2\Select2;
 
 $title =  '字段管理' ;
